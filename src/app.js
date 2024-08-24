@@ -15,6 +15,6 @@ app.get('/', (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log("Port ==> ", port)
+    console.log("Port ==> ", port);
 })
 
